@@ -1,5 +1,5 @@
 # traffic-signs-german
-Feature based picture recognition for german signs.
+Feature based picture recognition for german signs.\n
 The project's repository doess not contain Datasets and their respective folders.
 Training Datasets are available: https://drive.google.com/drive/folders/1_qVUrb7HCWcU0ddeuG0m226D8E3Vouk8?usp=sharing.
 Testing Datasets are available respectively:
